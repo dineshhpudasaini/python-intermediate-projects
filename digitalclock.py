@@ -1,0 +1,1 @@
+print("You are currently watching digital clock!")
