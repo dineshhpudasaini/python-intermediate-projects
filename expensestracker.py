@@ -1,3 +1,2 @@
 import tkinter as tk
-
-tk.mainloop()
+print("Print Your Expensses Here: ")
